@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops and Cloud 
 - 🌱 I’m currently learning Javascript and Golang
 - 💞️ I’m looking to collaborate on Devops and security projects 
-- 📫 How to reach me ... email me on mohit@sabtech.cloud
+- 📫 How to reach me ... email me on singh.mohit325@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
